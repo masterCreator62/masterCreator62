@@ -2,7 +2,9 @@
 
 **AI media automation engineer ("vibe coder").** I build content factories with AI coding agents: a brief goes in, a finished, fact-checked, branded video, image set or game asset comes out — with automated QA and upload metadata.
 
-**▶ [Watch the 2-minute demo video](https://github.com/masterCreator62/ai-media-pipelines/blob/main/media/portfolio_demo.mp4)**
+**2-minute demo video:**
+
+https://github.com/user-attachments/assets/ec4170b8-56f6-4fb9-9e32-394639679019
 
 **Featured:** [ai-media-pipelines](https://github.com/masterCreator62/ai-media-pipelines) — six production pipelines, all running on one home PC at near-zero cost:
 
