@@ -4,7 +4,7 @@
 
 **2-minute demo video:**
 
-https://github.com/user-attachments/assets/ec4170b8-56f6-4fb9-9e32-394639679019
+https://github.com/user-attachments/assets/376e4055-3f84-4d5d-a4b3-082b8a0c9c8b
 
 **Featured:** [ai-media-pipelines](https://github.com/masterCreator62/ai-media-pipelines) — six production pipelines, all running on one home PC at near-zero cost:
 
