@@ -4,15 +4,14 @@
 
 **2-minute demo video:**
 
-https://github.com/user-attachments/assets/376e4055-3f84-4d5d-a4b3-082b8a0c9c8b
+https://github.com/user-attachments/assets/3ab74ae0-32d4-42d3-9153-ea2551377e1b
 
-**Featured:** [ai-media-pipelines](https://github.com/masterCreator62/ai-media-pipelines) — six production pipelines, all running on one home PC at near-zero cost:
+**Featured:** [ai-media-pipelines](https://github.com/masterCreator62/ai-media-pipelines) — five production pipelines, all running on one home PC at near-zero cost:
 
 | Pipeline | Output so far |
 |---|---|
 | Game news video factory (script → AI voice → infographics → captions → QA → upload) | 49 videos in 4 days |
 | Music lyric Shorts (sung lyrics synced by speech recognition) | 30 Shorts |
-| Gameplay highlight Shorts (best moments found by audio analysis) | 19 videos |
 | Local image generation on an 8 GB GPU (commercial-safe models) | 155 images |
 | Blender → Roblox 3D pipeline (weapons modelled in code) | 17 weapons, 86/86 tests |
 | Live 2D/3D map of an AI agent workstation | rebuilt every 10 min |
